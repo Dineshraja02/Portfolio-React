@@ -22,6 +22,9 @@ export default function Menu({ menuOpen, setMenuOpen }) {
         <li>
           <a target="blank" href="https://drive.google.com/file/d/1kMIBqaK51-UYkS5ZSVXGpXPsmaRRX1JF/view?usp=sharing">Download CV</a>
         </li>
+        <li>
+          <a target="blank" href="https://github.com/AKRaavanan/">Github</a>
+        </li>
       </ul>
     </div>
   );
