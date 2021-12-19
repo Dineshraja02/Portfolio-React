@@ -26,6 +26,7 @@ export default function Portfolio() {
   return (
     <div className="portfolio" id="portfolio">
       <h1>Projects</h1>
+      <p><b>Github link in Menubar</b></p>
       <ul>
         {list.map((item) => (
           <PortfolioList
@@ -44,7 +45,10 @@ export default function Portfolio() {
               src={d.img}
               alt=""
             />
+            <span>
             <h3>{d.title}</h3>
+            <p>{d.desc}</p>
+            </span>
           </div>
           </a>
         ))}
