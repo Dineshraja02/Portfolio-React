@@ -17,7 +17,7 @@ export default function Testimonials() {
       title: "From June 2014 To May 2018",
       img:"https://campushunt.in/collegelogo/annai%20mathammal%20sheela%20eng%20clg%20logo.jpg",
       desc:
-        "Annai Mathammal Engineering College, Namakkal",
+        "Annai Mathammal Sheela Engineering College, Namakkal",
       featured: true,
       Percentage:"Percentage:63.8%"
     },
