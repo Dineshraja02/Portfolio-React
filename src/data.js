@@ -25,6 +25,14 @@ export const featuredPortfolio = [
     },
     {
       id: 4,
+      title: "Whatsapp clone UI",
+      img:
+        "/assets/Whatsapp.png",
+        link:"https://texter-clone.netlify.app/",
+        desc: "You'll get fast, simple,secure messaging"
+    },
+    {
+      id: 5,
       title: "Music Player App",
       img:
         "/assets/Musicplayer.png",
@@ -32,7 +40,7 @@ export const featuredPortfolio = [
       desc: "Just realx and Enjoy the Music"
     },
     {
-      id: 5,
+      id: 6,
       title: "Anime Series Search",
       img:
         "/assets/Anime.png",
@@ -40,7 +48,7 @@ export const featuredPortfolio = [
       desc: "Search your favorite anime series."
     },
     {
-      id: 6,
+      id: 7,
       title: "Loads App",
       img:
         "/assets/Loads.png",
