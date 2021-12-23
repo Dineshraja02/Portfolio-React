@@ -17,6 +17,14 @@ export const featuredPortfolio = [
     },
     {
       id: 3,
+      title: "EMI Calculator",
+      img:
+        "/assets/EMI.png",
+        link:"https://emi-calcu.netlify.app/emicalc",
+        desc: "No need of calculator Enter the credentials and see your EMI table"
+    },
+    {
+      id: 4,
       title: "Web Scrapping",
       img:
         "/assets/WebScrap.png",
@@ -24,7 +32,7 @@ export const featuredPortfolio = [
         desc: "Compare Your favorite mobile price in place"
     },
     {
-      id: 4,
+      id: 5,
       title: "Whatsapp clone UI",
       img:
         "/assets/Whatsapp.png",
@@ -32,7 +40,7 @@ export const featuredPortfolio = [
         desc: "You'll get fast, simple,secure messaging"
     },
     {
-      id: 5,
+      id: 6,
       title: "Music Player App",
       img:
         "/assets/Musicplayer.png",
@@ -40,7 +48,7 @@ export const featuredPortfolio = [
       desc: "Just realx and Enjoy the Music"
     },
     {
-      id: 6,
+      id: 7,
       title: "Anime Series Search",
       img:
         "/assets/Anime.png",
@@ -48,7 +56,7 @@ export const featuredPortfolio = [
       desc: "Search your favorite anime series."
     },
     {
-      id: 7,
+      id: 8,
       title: "Loads App",
       img:
         "/assets/Loads.png",
